@@ -117,7 +117,7 @@ VSCodeを入れる。[公式サイト](https://code.visualstudio.com)にアク�
 
 Download Mac Universalからstable build（insidersは試作品みたいな意味っぽい）を選択してクリックする。なおVSCodeは無料なので無料期間が終わったらアップグレードということはないので安心して使える。
 
-ダウンロードしたら必ずアプリケーションフォルダに移動する。これをしないと常に/Users/home/Downloadsからダウンロードする（自分はホームフォルダの名前をhomeにしている）から起動するというややこしいことになる。移動する際、/Applicationsの方に入れる。/System/Applicationでないことに注意。わからなければなんか後から入れたアプリがたくさん入っている方に入れれば良いと考えれば問題ない。
+ダウンロードしたら必ずアプリケーションフォルダに移動する。これをしないと常に/Users/home/Downloads（自分はホームフォルダの名前をhomeにしている）から起動するというややこしいことになる。移動する際、/Applicationsの方に入れる。/System/Applicationでないことに注意。わからなければなんか後から入れたアプリがたくさん入っている方に入れれば良いと考えれば問題ない。
 
 ![](LaTeX_intro_files/SS_2022-06-18_6-24-46.jpg)
 
