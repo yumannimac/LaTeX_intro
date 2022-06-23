@@ -14,7 +14,14 @@
       }
     };
   </script>
-
+<style>
+	img{
+		width:50%
+	}
+	video{
+		width:50%
+	}
+</style>
 
 # はじめに
 
@@ -62,12 +69,12 @@
 Cloud LaTeXを使う上でターゲット設定に注意しておく必要がある。
 
 
-<div style="text-align:center">
+
 <video controls controles poster="" width="50%">
 <source src="LaTeX_intro_sfiles/SS_2022-06-17_23-41-32.mov">
 </video>
 </source>
-</div>
+
 
 この場合は自分で作ったabc.tex（名前に意味はない）をコンパイルしてpdfにしようと思ってもできないことがあるが、それはターゲット設定をしていないからである。一回右クリックしてターゲット設定すればコンパイルできる。なお新しくファイルを作るには新しくプロジェクトを追加するか左上の＋から「ファイルの追加」で追加すれば良い。その際 $\LaTeX$ としてコンパイルしたいファイルの末尾には必ず拡張子.texをつけることに注意する。PDFをダウンロードしたければ右上のPDFボタンをクリックすれば良い。Cloud LaTeXは結構サジェスト機能が充実していてpandocやplatex以外のコンパイラを使用することもできるので便利。
 
