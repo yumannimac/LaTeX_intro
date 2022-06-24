@@ -20,7 +20,6 @@
 		max-width:100vw
 	}
 	video{
-		max-height:50vh;
 		max-width:100vw;
 	}
 </style>
