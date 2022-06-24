@@ -16,12 +16,12 @@
   </script>
 <style>
 	img{
-		max-height:300px;
-		max-width:100%
+		max-height:50vh;
+		max-width:100vw
 	}
 	video{
-		max-width:100%;
-		max-height:100%
+		max-width:50vh;
+		max-height:100vw
 	}
 </style>
 
